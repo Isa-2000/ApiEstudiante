@@ -44,7 +44,7 @@ CREATE TABLE `estudiantes` (
 
 LOCK TABLES `estudiantes` WRITE;
 /*!40000 ALTER TABLE `estudiantes` DISABLE KEYS */;
-INSERT INTO `estudiantes` VALUES (1,'54545','wualter','ixcoy','Guatemala','67656765','agusto@gmail.com',1,'2002-01-11');
+INSERT INTO `estudiantes` VALUES (1,'54545','isias','ixcoy','Guatemala','67656765','isaias@gmail.com',1,'2002-01-11');
 /*!40000 ALTER TABLE `estudiantes` ENABLE KEYS */;
 UNLOCK TABLES;
 
